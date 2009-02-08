@@ -1,0 +1,13 @@
+development:
+  adapter: mysql
+  database: meal_development
+  username: root
+  password: 
+  host: localhost
+
+test:
+  adapter: mysql
+  database: meal_test
+  username: root
+  password:
+  host: localhost
